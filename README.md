@@ -1,2 +1,2 @@
 # BlackQueen_Data
-Simualtion outputs for manuscript
+Simulation outputs, supplementary data, and supplementary figures/tables for manuscript
